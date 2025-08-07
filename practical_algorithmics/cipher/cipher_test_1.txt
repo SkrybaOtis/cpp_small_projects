@@ -1,0 +1,22 @@
+3
+5 6
+cebdbac
+cac
+ecd
+dca
+aba
+bac
+cedab
+5 5
+abdbac
+dca
+ecd
+aba
+bde
+7 6
+cac
+edb
+adf
+abg
+fba
+fge
